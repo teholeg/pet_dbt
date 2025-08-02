@@ -1,3 +1,4 @@
 /dbt-venv
 .gitignore
 /logs
+.vscode
