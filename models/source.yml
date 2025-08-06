@@ -1,0 +1,9 @@
+version: 2
+
+sources:  
+  - name: nas_pet
+    schema: public
+    tables: 
+      - name: revised
+      - name: goods_classification
+      - name: country_code

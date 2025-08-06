@@ -2,3 +2,5 @@
 .gitignore
 /logs
 .vscode
+dbt_internal_packages/
+/target
